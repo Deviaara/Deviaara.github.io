@@ -4,14 +4,13 @@ body {
 }
 
 li{
-  list-style-type: upper-roman;
+  list-style:none;
 }
 
 .header {
   background-color: #E9967A;
   color: #fff;
   height: 100px;
-  p.solid {border-style: solid;
   }
 
 .header-logo {
