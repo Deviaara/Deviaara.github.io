@@ -1,9 +1,9 @@
 body {
-  font-family: "courier,arial,helvetica";
+  font-family: "courier";
 }
 
 li {
-  list-style: none;
+  list-style: lower-alpha;
 }
 
 .header {
