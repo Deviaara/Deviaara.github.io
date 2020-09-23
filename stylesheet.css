@@ -2,15 +2,16 @@ body {
   font-family: "courier";
 }
 
-ol.d {
-  list-style: lower-alpha;
+ol.c {
+  list-style-type: upper-roman;
 }
 
 .header {
   background-color: #E9967A;
   color: #fff;
   height: 100px;
-}
+  p.solid {border-style: solid;
+  }
 
 .header-logo {
   float: left;
