@@ -7,7 +7,7 @@ li {
 }
 
 .header {
-  background-color: #FFE4E1;
+  background-color: #E9967A;
   color: #fff;
   height: 100px;
 }
@@ -24,11 +24,11 @@ li {
 }
 
 .main {
-  background-color: #D2B48C;
+  background-color: #8FBC8F;
   height: 700px;
 }
 
 .footer {
-  background-color: #EEE8AA;
+  background-color: #FFFAF0;
   height: 300px;
 }
