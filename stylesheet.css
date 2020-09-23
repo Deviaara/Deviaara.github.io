@@ -2,8 +2,8 @@ body {
   font-family: "courier";
 }
 
-ol.c {
-  list-style-type: upper-roman;
+ul.b {
+  list-style-type: square;
 }
 
 .header {
