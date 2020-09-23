@@ -1,9 +1,10 @@
 body {
   font-family: "courier";
+  background-image: url("wp35441184.jpg");
 }
 
-ul.b {
-  list-style-type: square;
+li{
+  list-style-type: upper-roman;
 }
 
 .header {
