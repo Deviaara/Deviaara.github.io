@@ -1,8 +1,6 @@
 /**
 
-Mini Profile Template
 
-https://templatemo.com/tm-530-mini-profile
 
 
 Color Codes
@@ -14,6 +12,10 @@ blue: #3398cc;
 dark-gray: #676767;
 light-gray: #999999;
 text-gray: #6b6b6b;
+dark-olive-green : #556B2F;
+khaki: #F0E68C;
+linen : #FAF0E6;
+salmon: #FA8072;
 
 */
 
@@ -43,8 +45,8 @@ a:hover {
   max-width: 1200px;
 }
 
-.tm-bg-black-transparent {
-  background-color: rgba(0, 0, 0, 0.5);
+.tm-bg-olive {
+  background-color: rgba(128, 128, 1);
 }
 
 .tm-bg-white-transparent {
@@ -55,16 +57,16 @@ a:hover {
   background-color: #98cb00;
 }
 
-.tm-bg-orange {
-  background-color: #cc6733;
+.tm-bg-khaki{
+  background-color: #F0E68C;
 }
 
-.tm-bg-blue {
-  background-color: #3398cc;
+.tm-bg-linen {
+  background-color: #FAF0E6;
 }
 
-.tm-bg-dark-gray {
-  background-color: #676767;
+.tm-bg-salmon {
+  background-color: #FA8072;
 }
 
 /*
@@ -72,7 +74,7 @@ a:hover {
 */
 #tmWelcome {
   position: relative;
-  display: flex;
+  display: inline-flex;
   align-items: center;
 }
 
@@ -181,16 +183,16 @@ a:hover {
   color: #98cb00;
 }
 
-.tm-text-orange {
-  color: #cc6733;
+.tm-text-khaki {
+  color: #F0E68C;
 }
 
-.tm-text-blue {
-  color: #3398cc;
+.tm-text-linen {
+  color: #FAF0E6;
 }
 
-.tm-text-dark-gray {
-  color: #676767;
+.tm-text-salmon {
+  color: #FA8072;
 }
 
 .tm-title-small {
@@ -258,7 +260,7 @@ p {
 }
 
 .tm-btn-submit {
-  background-color: #999999;
+  background-color: #808000;
   padding: 12px 30px;
   font-size: 1.2rem;
 }
