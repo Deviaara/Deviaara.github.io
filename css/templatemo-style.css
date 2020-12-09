@@ -53,8 +53,8 @@ a:hover {
   background-color: rgba(255, 255, 255, 0.8);
 }
 
-.tm-bg-green {
-  background-color: #98cb00;
+.tm-bg-beige {
+  background-color: #F5F5DC;
 }
 
 .tm-bg-khaki{
@@ -74,7 +74,7 @@ a:hover {
 */
 #tmWelcome {
   position: relative;
-  display: inline-flex;
+  display: flex;
   align-items: center;
 }
 
@@ -179,8 +179,8 @@ a:hover {
   margin-bottom: 20px;
 }
 
-.tm-text-green {
-  color: #98cb00;
+.tm-text-beige {
+  color: #F5F5DC;
 }
 
 .tm-text-khaki {
